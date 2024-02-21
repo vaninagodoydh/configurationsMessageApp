@@ -1,0 +1,9 @@
+#spring:
+#  config:
+#    activate:
+#      on-profile: prd
+
+server:
+  port: 8083
+
+message: This message is from prd configuration

@@ -1,0 +1,9 @@
+#spring:
+#  config:
+#    activate:
+#      on-profile: dev
+
+server:
+  port: 8082
+
+message: This message is from dev configuration
