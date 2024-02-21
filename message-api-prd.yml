@@ -6,4 +6,4 @@
 server:
   port: 8083
 
-message: This message is from prd configuration
+message: This a NEW message from prd configuration
